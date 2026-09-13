@@ -24,17 +24,6 @@ https://github.com/NadeenXo/Flutter-State-Management
 
 All screenshots for the project are available inside the `screenshots/` folder in this repository.
 
-The screenshots include:
-
-- Phase 1 - CounterBloc
-- Phase 1 - ThemeBloc light mode
-- Phase 1 - ThemeBloc dark mode
-- Phase 2 - BlocBuilder
-- Phase 2 - BlocListener SnackBar
-- Phase 2 - BlocConsumer message
-- Phase 3 - CounterCubit
-- Phase 3 - Negative counter dialog
-- Phase 3 - BlocConsumer at 10
 
 ## Project Structure
 
